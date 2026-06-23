@@ -1,4 +1,3 @@
-# Netflix-data-analysis-project-python-
 # Netflix Data Analysis Project
 
 ## Overview
